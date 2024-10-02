@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Budi Darma
+
 
 <h1 align="center">Hi 👋, I'm Budi Darma, an IT student</h1>
 <h3 align="center">
