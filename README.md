@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Budi Darma
 
 <h1 align="center">Hi 👋, I'm Budi Darma a IT student</h1>
-<h3 align="center">My focus is on Mobile development, and I'm actively expanding my expertise by learning Kotlin and Android and its ecosystem.r</h3>
+<h3 align="center">I am deeply engaged in advancing my skills and knowledge. My primary interest lies in mobile development, and I am currently focused on mastering Kotlin and its ecosystem to enhance my expertise in creating efficient and innovative mobile applications. By diligently studying this field, I aim to develop a solid foundation that will support my future career and contribute to the ever-evolving world of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=budidarma07&label=Profile%20views&color=0e75b6&style=flat" alt="budidarma07" /> </p>
 
