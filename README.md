@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Budi Darma
 
 <h1 align="center">Hi 👋, I'm Budi Darma a IT student</h1>
-<h3 align="center">Im Passionate in Web Developer and Mobile Developer</h3>
+<h3 align="center">My focus is on Mobile development, and I'm actively expanding my expertise by learning Kotlin and Android and its ecosystem.r</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=budidarma07&label=Profile%20views&color=0e75b6&style=flat" alt="budidarma07" /> </p>
 
